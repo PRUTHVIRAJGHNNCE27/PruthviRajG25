@@ -85,7 +85,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
-  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="ChatGPT" />
+  <img
+  src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"
+  alt="ChatGPT"
+/>
   <img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48" alt="Gemini" />
   <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
 </p>
