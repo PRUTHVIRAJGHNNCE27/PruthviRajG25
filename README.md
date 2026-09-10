@@ -81,14 +81,18 @@
   />
 </p>
 
-### 🔧 Tools & Platforms
+### ### 🔧 Tools & Platforms
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,figma,chatgpt,gemini,claude"
-    alt="Git, GitHub, VS Code, Postman and Figma"
-  />
+  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/figma" width="45" height="45" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/claude" width="45" height="45" alt="Claude" />
 </p>
+
 
 
 
