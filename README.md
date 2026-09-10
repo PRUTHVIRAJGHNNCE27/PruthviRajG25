@@ -85,10 +85,13 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"
+    src="https://skillicons.dev/icons?i=git,github,vscode,figma,chatgpt,gemini,claude"
     alt="Git, GitHub, VS Code, Postman and Figma"
   />
 </p>
+
+
+
 
 ---
 
