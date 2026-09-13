@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pruthvi Raj G
+# 👋 Hi,  I'm Pruthvi Raj G
 
 ### Software Engineering Student | Full Stack Developer | Java & DSA Enthusiast
 
